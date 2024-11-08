@@ -1,0 +1,12 @@
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\bin\Debug\Sistema_Reservas(Listas).exe.config
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\bin\Debug\Sistema_Reservas(Listas).exe
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\bin\Debug\Sistema_Reservas(Listas).pdb
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas(Listas).csproj.AssemblyReference.cache
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas_Listas_.Properties.Resources.resources
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas(Listas).csproj.GenerateResource.cache
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas(Listas).csproj.CoreCompileInputs.cache
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas(Listas).exe
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas(Listas).pdb
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas_Listas_.FormReservar.resources
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas_Listas_.FormInicio.resources
+C:\Users\dahia\source\repos\Sistema_Reservas(Listas)\Sistema_Reservas(Listas)\obj\Debug\Sistema_Reservas_Listas_.FormListarReservas.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_Reservas(Listas)", "Sistema_Reservas(Listas)\Sistema_Reservas(Listas).csproj", "{D7F517AD-0E57-4BE5-AC64-8DA39C08A94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F517AD-0E57-4BE5-AC64-8DA39C08A94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F517AD-0E57-4BE5-AC64-8DA39C08A94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F517AD-0E57-4BE5-AC64-8DA39C08A94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F517AD-0E57-4BE5-AC64-8DA39C08A94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4533F80C-9E43-45EA-BB86-0BDE85EB669D}
+	EndGlobalSection
+EndGlobal
